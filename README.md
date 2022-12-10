@@ -9,7 +9,7 @@
 
 ### The Irish Pagan School | irishpagan.school
 
-- <a href="https://irishpagan.school/the-morrigan" target="_blank">**Irish Goddess, the Mórrígan**</a>
+- <a href="https://irishpagan.school/the-morrigan" target="_blank">Irish Goddess, the Mórrígan</a>
 
 ### Lora O’Brien | loraobrien.ie
 - <a href="https://loraobrien.ie/the-morrigan-resources-guide" target="_blank">**The Morrigan – Ultimate Resources Guide**<a>
