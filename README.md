@@ -55,6 +55,9 @@
 - **Who is your favourite deity to offer devotion to and why?**
     - <https://rmto.quora.com/Who-is-your-favourite-deity-to-offer-devotion-to-and-why>
 
+- **Which deity would you go to if you wanted to learn more about witchcraft?**
+    - <https://forbiddenknowledge.quora.com/Which-deity-would-you-go-to-if-you-wanted-to-learn-more-about-witchcraft>
+
 - **Who was the Celtic god Morrigan and what did she believe or show the Celts?**
     - <https://www.quora.com/Who-was-the-Celtic-god-Morrigan-and-what-did-she-believe-or-show-the-Celts>
     
@@ -81,10 +84,20 @@
 - **How I Met the Morrigan - Thoughts on Personal Sovereignty**
     - <https://www.youtube.com/watch?v=FVSrRY38bjA>
     
-**Lora O'Brien | The Irish Pagan School**
+**Lora O'Brien**
 
 - **How to Work with the Morrigan**
     - <https://www.youtube.com/watch?v=RakzNrRCjXk>
+
+- **The Morrigan | Shapeshifting Goddess of Fate, War & Death (Irish - Celtic Mythology with a Native!)**
+    - <https://www.youtube.com/watch?v=TR5_7i_k-Rc>
+
+- **Is the Morrigan Calling You? What are the Signs?**
+    - <https://www.youtube.com/watch?v=C0KW6iNlGtg>
+
+- **Mórrígan Lore - a Reading of the Táin Bó Regamna**
+    - <https://www.youtube.com/watch?v=M9DKSCbrpiI>
+
 
 ## Prayers
 - **Prayer to the Morrigan at Sunset**
