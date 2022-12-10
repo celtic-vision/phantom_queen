@@ -7,14 +7,14 @@
 
 ## Articles
 
-### The Irish Pagan School | irishpagan.school
+### The Irish Pagan School | [irishpagan.school]([irishpagan.school](https://irishpagan.school))
 
 - [**Irish Goddess, the Mórrígan**](https://irishpagan.school/the-morrigan)
 
-### Lora O’Brien | loraobrien.ie
+### Lora O’Brien | [loraobrien.ie](https://loraobrien.ie)
 - [**The Morrigan – Ultimate Resources Guide**](https://loraobrien.ie/the-morrigan-resources-guide)
     
-### John Beckett | patheos.com
+### John Beckett | [patheos.com](https://www.patheos.com/blogs/johnbeckett)
 
 - [**An Oath to the Morrigan**](https://www.patheos.com/blogs/johnbeckett/2017/07/an-oath-to-the-morrigan.html)
     
@@ -33,7 +33,7 @@
 - [**The Morrigan Calls More Than Warriors**](https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html)
 
 
-## Question Related To Goddess Morrigan On Quora
+## Question Related To Goddess Morrigan | [Quora](https://www.quora.com)
 
 - [**Who is your favorite goddess and why?**](https://rmto.quora.com/Who-is-your-favorite-goddess-and-why-1?ch=10&oid=399459064&share=54cf6cb8&target_type=answer)
     
@@ -58,7 +58,7 @@
 - [**Is Scathach the daughter of the goddess Morrigan?**](https://www.quora.com/Is-Scathach-the-daughter-of-the-goddess-Morrigan)
  
  
-## Celtic Literature | maryjones.us
+## Celtic Literature | [maryjones.us](https://www.maryjones.us/ctexts)
 
 - **[The Cattle-Raid of Regamna**](https://www.maryjones.us/ctexts/regamna.html)
 
