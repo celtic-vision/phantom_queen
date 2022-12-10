@@ -1,4 +1,4 @@
-# Resources Dedicated to the Goddess Morrigan
+# Resources Dedicated To The Goddess Morrigan
 
 - This is an exhaustive list of great resources dedicated to the Goddess Morrigan. 
 - All credit for this work goes to the respective authors & creators (mentioned in the links)
@@ -33,7 +33,7 @@
 - [The Morrigan Calls More Than Warriors](https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html)
 
 
-## Question Related To Goddess Morrigan | [quora](https://www.quora.com)
+## Question Related To The Goddess Morrigan | [quora](https://www.quora.com)
 
 - [Who is your favorite goddess and why?](https://rmto.quora.com/Who-is-your-favorite-goddess-and-why-1?ch=10&oid=399459064&share=54cf6cb8&target_type=answer)
     
