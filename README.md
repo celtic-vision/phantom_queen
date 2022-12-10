@@ -9,10 +9,10 @@
 
 ### The Irish Pagan School | irishpagan.school
 
-- [**Irish Goddess, the Mórrígan**](https://irishpagan.school/the-morrigan)
+- <a href="https://irishpagan.school/the-morrigan" target="_blank">**Irish Goddess, the Mórrígan**</a>
 
 ### Lora O’Brien | loraobrien.ie
-- [**The Morrigan – Ultimate Resources Guide**](https://loraobrien.ie/the-morrigan-resources-guide)
+- <a href="https://loraobrien.ie/the-morrigan-resources-guide" target="_blank">**The Morrigan – Ultimate Resources Guide**<a>
     
 ### John Beckett | patheos.com
 
