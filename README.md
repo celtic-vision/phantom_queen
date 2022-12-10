@@ -41,7 +41,8 @@
     
 - **The Morrigan Calls More Than Warriors**
     - <https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html>
-    
+
+
 ## Question Related To Goddess Morrigan On Quora
 
 - **Who is your favorite goddess and why?**
@@ -76,8 +77,14 @@
     
 - **Is Scathach the daughter of the goddess Morrigan?**
     - <https://www.quora.com/Is-Scathach-the-daughter-of-the-goddess-Morrigan>
-     
-    
+ 
+ 
+## Celtic Literature
+
+**The Cattle-Raid of Regamna**
+    - <https://www.maryjones.us/ctexts/regamna.html>
+
+
 ## Videos
 
 **Jon O'Sullivan | The Irish Pagan School**
