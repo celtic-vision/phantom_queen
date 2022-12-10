@@ -11,7 +11,6 @@
 - **Irish Goddess, the Mórrígan**
     - <https://irishpagan.school/the-morrigan>
 
-
 ### Lora O’Brien
 - **The Morrigan – Ultimate Resources Guide**
     - <https://loraobrien.ie/the-morrigan-resources-guide>
@@ -42,7 +41,50 @@
 - **The Morrigan Calls More Than Warriors**
     - <https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html>
     
+## Question Related To Goddess Morrigan On Quora
+
+- **Who is your favorite goddess and why?**
+    - <https://rmto.quora.com/Who-is-your-favorite-goddess-and-why-1?ch=10&oid=399459064&share=54cf6cb8&target_type=answer>
+    
+- **How can I respectfully get deities to help me with my spells?**
+    - <https://magicmanifestationbalance.quora.com/How-can-I-respectfully-get-deities-to-help-me-with-my-spells-1?ch=10&oid=351630776&share=2e62fb65&target_type=answer>
+
+- **What are some other gods you have been tempted to worship in your life?**
+    - <https://rmto.quora.com/What-are-some-other-gods-you-have-been-tempted-to-worship-in-your-life>
+    
+- **Who is your favourite deity to offer devotion to and why?**
+    - <https://rmto.quora.com/Who-is-your-favourite-deity-to-offer-devotion-to-and-why>
+
+- **Who was the Celtic god Morrigan and what did she believe or show the Celts?**
+    - <https://www.quora.com/Who-was-the-Celtic-god-Morrigan-and-what-did-she-believe-or-show-the-Celts>
+    
+- **In Celtic mythology, did the goddess Morrigan have any children?**
+    - <https://www.quora.com/In-Celtic-mythology-did-the-goddess-Morrigan-have-any-children>
+ 
+- **Morrigan or Morgan? Who was the Phantom Queen of Ireland?**
+    - <https://www.quora.com/Morrigan-or-Morgan-Who-was-the-Phantom-Queen-of-Ireland>
+    
+- **I’m pretty sure the Morrigan is calling me. What should I know first and foremost, right off the bat?**
+    - <https://www.quora.com/I-m-pretty-sure-the-Morrigan-is-calling-me-What-should-I-know-first-and-foremost-right-off-the-bat>
+    
+- **What is the Mórrigan?**
+    - <https://www.quora.com/What-is-the-M%C3%B3rrigan>
+    
+- **Is Scathach the daughter of the goddess Morrigan?**
+    - <https://www.quora.com/Is-Scathach-the-daughter-of-the-goddess-Morrigan>
+     
+    
 ## Videos
+
+**Jon O'Sullivan | The Irish Pagan School**
+
+- **How I Met the Morrigan - Thoughts on Personal Sovereignty**
+    - <https://www.youtube.com/watch?v=FVSrRY38bjA>
+    
+**Lora O'Brien | The Irish Pagan School**
+
+- **How to Work with the Morrigan**
+    - <https://www.youtube.com/watch?v=RakzNrRCjXk>
 
 ## Prayers
 - **Prayer to the Morrigan at Sunset**
