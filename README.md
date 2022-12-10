@@ -1,7 +1,7 @@
 # Resources Dedicated to the Goddess Morrigan
 
 - This is an exhaustive list of great resources dedicated to the Goddess Morrigan. 
-- All the credit for the related work goes to the respective authors & creators (mentioned in the links)
+- All credit for this work goes to the respective authors & creators (mentioned in the links)
 
 
 ## Articles
