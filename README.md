@@ -6,7 +6,7 @@
 
 ## Articles
 
-### The Irish Pagan School**
+### The Irish Pagan School
 
 - **Irish Goddess, the Mórrígan**
     - <https://irishpagan.school/the-morrigan>
