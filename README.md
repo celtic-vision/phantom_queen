@@ -2,6 +2,7 @@
 
 - This is an exhaustive list of great resources dedicated to the Goddess Morrigan. 
 - All credit for this work goes to the respective authors & creators (mentioned in the links)
+- feedback: celtic_vision@protonmail.com
 
 
 ## Articles
