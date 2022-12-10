@@ -82,7 +82,7 @@
 ## Celtic Literature
 
 **The Cattle-Raid of Regamna**
-    - <https://www.maryjones.us/ctexts/regamna.html>
+- <https://www.maryjones.us/ctexts/regamna.html>
 
 
 ## Videos
