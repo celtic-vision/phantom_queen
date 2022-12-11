@@ -71,28 +71,66 @@
 
 ## Question Related To The Goddess Morrigan | [quora](https://www.quora.com)
 
-- [Who is your favorite goddess and why?](https://rmto.quora.com/Who-is-your-favorite-goddess-and-why-1?ch=10&oid=399459064&share=54cf6cb8&target_type=answer)
-    
-- [How can I respectfully get deities to help me with my spells?](https://magicmanifestationbalance.quora.com/How-can-I-respectfully-get-deities-to-help-me-with-my-spells-1?ch=10&oid=351630776&share=2e62fb65&target_type=answer)
+**Answers to related Questions**
 
-- [What are some other gods you have been tempted to worship in your life?](https://rmto.quora.com/What-are-some-other-gods-you-have-been-tempted-to-worship-in-your-life)
-    
-- [Who is your favourite deity to offer devotion to and why?](https://rmto.quora.com/Who-is-your-favourite-deity-to-offer-devotion-to-and-why)
-
-- [Which deity would you go to if you wanted to learn more about witchcraft?](https://forbiddenknowledge.quora.com/Which-deity-would-you-go-to-if-you-wanted-to-learn-more-about-witchcraft)
-
-- [Who was the Celtic god Morrigan and what did she believe or show the Celts?](https://www.quora.com/Who-was-the-Celtic-god-Morrigan-and-what-did-she-believe-or-show-the-Celts)
-    
-- [In Celtic mythology, did the goddess Morrigan have any children?](https://www.quora.com/In-Celtic-mythology-did-the-goddess-Morrigan-have-any-children)
+<table>
+    <tr>
+        <th>☆</th>
+        <th>Question</th>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>            
+            <a href="https://rmto.quora.com/Who-is-your-favorite-goddess-and-why-1?ch=10&amp;oid=399459064&amp;share=54cf6cb8&amp;target_type=answer">Who is your favorite goddess and why?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>            
+            <a href="https://magicmanifestationbalance.quora.com/How-can-I-respectfully-get-deities-to-help-me-with-my-spells-1?ch=10&amp;oid=351630776&amp;share=2e62fb65&amp;target_type=answer">How can I respectfully get deities to help me with my spells?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+<a href="https://rmto.quora.com/What-are-some-other-gods-you-have-been-tempted-to-worship-in-your-life">What are some other gods you have been tempted to worship in your life?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+<a href="https://rmto.quora.com/Who-is-your-favourite-deity-to-offer-devotion-to-and-why">Who is your favourite deity to offer devotion to and why?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+<a href="https://forbiddenknowledge.quora.com/Which-deity-would-you-go-to-if-you-wanted-to-learn-more-about-witchcraft">Which deity would you go to if you wanted to learn more about witchcraft?</a>
+        </td>
+    </tr>    
+ </table>   
  
-- [Morrigan or Morgan? Who was the Phantom Queen of Ireland?](https://www.quora.com/Morrigan-or-Morgan-Who-was-the-Phantom-Queen-of-Ireland)
-    
-- [I’m pretty sure the Morrigan is calling me. What should I know first and foremost, right off the bat?](https://www.quora.com/I-m-pretty-sure-the-Morrigan-is-calling-me-What-should-I-know-first-and-foremost-right-off-the-bat)
-    
-- [What is the Mórrigan?](https://www.quora.com/What-is-the-M%C3%B3rrigan)
-    
-- [Is Scathach the daughter of the goddess Morrigan?](https://www.quora.com/Is-Scathach-the-daughter-of-the-goddess-Morrigan)
- 
+
+
+
+
+<a href="https://www.quora.com/Who-was-the-Celtic-god-Morrigan-and-what-did-she-believe-or-show-the-Celts">Who was the Celtic god Morrigan and what did she believe or show the Celts?</a>
+<a href="https://www.quora.com/In-Celtic-mythology-did-the-goddess-Morrigan-have-any-children">In Celtic mythology, did the goddess Morrigan have any children?</a>
+<a href="https://www.quora.com/Morrigan-or-Morgan-Who-was-the-Phantom-Queen-of-Ireland">Morrigan or Morgan? Who was the Phantom Queen of Ireland?</a>
+<a href="https://www.quora.com/I-m-pretty-sure-the-Morrigan-is-calling-me-What-should-I-know-first-and-foremost-right-off-the-bat">I’m pretty sure the Morrigan is calling me. What should I know first and foremost, right off the bat?</a>
+<a href="https://www.quora.com/What-is-the-M%C3%B3rrigan">What is the Mórrigan?</a>
+<a href="https://www.quora.com/Is-Scathach-the-daughter-of-the-goddess-Morrigan">Is Scathach the daughter of the goddess Morrigan?</a>
+
  
 ## Celtic Literature | [maryjones.us](https://www.maryjones.us/ctexts)
 
