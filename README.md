@@ -217,17 +217,23 @@
     </tr>
  </table>  
 
-
-
-
-
-
-
-
  
 ## Celtic Literature | [maryjones.us](https://www.maryjones.us/ctexts)
 
-- [The Cattle-Raid of Regamna](https://www.maryjones.us/ctexts/regamna.html)
+<table>
+    <tr>
+        <th>☆</th>
+        <th>genre</th>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://www.maryjones.us/ctexts/regamna.html" target="_blank">The Cattle-Raid of Regamna</a>
+        </td>
+    </tr>
+</table> 
 
 
 ## Videos
