@@ -122,14 +122,69 @@
  
 
 
+**Questions Directly Related To The Goddess Morrigan**
 
-
+<table>
+    <tr>
+        <th>☆</th>
+        <th>Question</th>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>         
 <a href="https://www.quora.com/Who-was-the-Celtic-god-Morrigan-and-what-did-she-believe-or-show-the-Celts">Who was the Celtic god Morrigan and what did she believe or show the Celts?</a>
-<a href="https://www.quora.com/In-Celtic-mythology-did-the-goddess-Morrigan-have-any-children">In Celtic mythology, did the goddess Morrigan have any children?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>            
+            <a href="https://www.quora.com/In-Celtic-mythology-did-the-goddess-Morrigan-have-any-children">In Celtic mythology, did the goddess Morrigan have any children?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
 <a href="https://www.quora.com/Morrigan-or-Morgan-Who-was-the-Phantom-Queen-of-Ireland">Morrigan or Morgan? Who was the Phantom Queen of Ireland?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
 <a href="https://www.quora.com/I-m-pretty-sure-the-Morrigan-is-calling-me-What-should-I-know-first-and-foremost-right-off-the-bat">I’m pretty sure the Morrigan is calling me. What should I know first and foremost, right off the bat?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
 <a href="https://www.quora.com/What-is-the-M%C3%B3rrigan">What is the Mórrigan?</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
 <a href="https://www.quora.com/Is-Scathach-the-daughter-of-the-goddess-Morrigan">Is Scathach the daughter of the goddess Morrigan?</a>
+        </td>
+    </tr>
+ </table>  
+
+
+
+
+
+
+
 
  
 ## Celtic Literature | [maryjones.us](https://www.maryjones.us/ctexts)
