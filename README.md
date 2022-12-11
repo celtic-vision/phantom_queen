@@ -1,8 +1,8 @@
 # Resources Dedicated To The Goddess Morrigan
 
 > This is an exhaustive list of great resources dedicated to the Goddess Morrigan. 
-> All credit for this work goes to the respective authors & creators (mentioned in the links)
-> feedback: celtic_vision@protonmail.com
+> All credit for this work goes to the respective authors & creators (mentioned in the links).
+> <br>Feedback: celtic_vision@protonmail.com
 
 
 ## Articles
@@ -39,30 +39,68 @@
         <td>
             ★★★ 
         </td>
-        <td>
+        <td rowspan="8">
             <a href="https://www.patheos.com/blogs/johnbeckett">John Beckett | patheos.com</a>
         </td>
         <td>
-            <ul>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2017/07/an-oath-to-the-morrigan.html">An Oath to the Morrigan</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2019/01/the-morrigan-calls-people-in-different-life-situations.html">The Morrigan Calls People In Different Life Situations</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2021/07/the-morrigan-didnt-call-you-up-just-to-smack-you-down.html">The Morrigan Didn’t Call You Up Just To Smack You Down</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2017/07/hear-call-morrigan.html">When You Hear The Call of The Morrigan</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2012/07/the-call-of-the-morrigan.html">The Call of the Morrigan</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2020/01/the-morrigan-demands-persistence-not-perfection.html">The Morrigan Demands Persistence Not Perfection</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2018/06/pouring-offerings-to-the-morrigan-in-ireland.html">Pouring Offerings to the Morrigan in Ireland</a></p>
-                </li>
-                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html">The Morrigan Calls More Than Warriors</a></p>
-                </li>
-                </ul>
+            <a href="https://www.patheos.com/blogs/johnbeckett/2017/07/an-oath-to-the-morrigan.html">An Oath to the Morrigan</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://www.patheos.com/blogs/johnbeckett/2019/01/the-morrigan-calls-people-in-different-life-situations.html">The Morrigan Calls People In Different Life Situations</a>
+        </td>
+   <tr>
+        <td>
+            ★★★ 
+        </td>
+       <td>
+           <a href="https://www.patheos.com/blogs/johnbeckett/2021/07/the-morrigan-didnt-call-you-up-just-to-smack-you-down.html">The Morrigan Didn’t Call You Up Just To Smack You Down</a>
+       </td>
+   </tr>
+   <tr>
+        <td>
+            ★★★ 
+        </td>
+       <td>
+           <a href="https://www.patheos.com/blogs/johnbeckett/2017/07/hear-call-morrigan.html">When You Hear The Call of The Morrigan</a></p>
+       </td>
+   </tr>
+   <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://www.patheos.com/blogs/johnbeckett/2012/07/the-call-of-the-morrigan.html">The Call of the Morrigan</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://www.patheos.com/blogs/johnbeckett/2020/01/the-morrigan-demands-persistence-not-perfection.html">The Morrigan Demands Persistence Not Perfection</a>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://www.patheos.com/blogs/johnbeckett/2018/06/pouring-offerings-to-the-morrigan-in-ireland.html">Pouring Offerings to the Morrigan in Ireland</a>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html">The Morrigan Calls More Than Warriors</a>
+        </td>
+  </tr>
 </table>
 
 
