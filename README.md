@@ -223,7 +223,8 @@
 <table>
     <tr>
         <th>☆</th>
-        <th>genre</th>
+        <th>epic</th>
+        <th>Source</th>
     </tr>
     <tr>
         <td>
@@ -232,25 +233,68 @@
         <td>
             <a href="https://www.maryjones.us/ctexts/regamna.html" target="_blank">The Cattle-Raid of Regamna</a>
         </td>
+        <td>
+            <a href="https://www.maryjones.us">maryjones.us</a>
+        </td>
     </tr>
 </table> 
 
 
 ## Videos
 
-**Jon O'Sullivan | The Irish Pagan School**
-
-- [How I Met the Morrigan - Thoughts on Personal Sovereignty](https://www.youtube.com/watch?v=FVSrRY38bjA)
-    
-**Lora O'Brien**
-
-- [How to Work with the Morrigan](https://www.youtube.com/watch?v=RakzNrRCjXk)
-
-- [The Morrigan | Shapeshifting Goddess of Fate, War & Death (Irish - Celtic Mythology with a Native!)](https://www.youtube.com/watch?v=TR5_7i_k-Rc)
-
-- [Is the Morrigan Calling You? What are the Signs?](https://www.youtube.com/watch?v=C0KW6iNlGtg)
-
-- [Mórrígan Lore - a Reading of the Táin Bó Regamna](https://www.youtube.com/watch?v=M9DKSCbrpiI)
+<table>
+    <tr>
+        <th>☆</th>
+        <th>Source</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+           **Jon O'Sullivan | The Irish Pagan School**
+        </td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=FVSrRY38bjA">How I Met the Morrigan - Thoughts on Personal Sovereignty</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td rowspan="4">
+           **Lora O'Brien**
+        </td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=RakzNrRCjXk">How to Work with the Morrigan</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=TR5_7i_k-Rc">The Morrigan | Shapeshifting Goddess of Fate, War &amp; Death (Irish - Celtic Mythology with a Native!)</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=C0KW6iNlGtg">Is the Morrigan Calling You? What are the Signs?</a>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=M9DKSCbrpiI">Mórrígan Lore - a Reading of the Táin Bó Regamna</a></p>
+        </td>
+  </tr>         
+</table> 
 
 
 ## Prayers
