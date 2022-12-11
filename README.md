@@ -1,36 +1,72 @@
 # Resources Dedicated To The Goddess Morrigan
 
-- This is an exhaustive list of great resources dedicated to the Goddess Morrigan. 
-- All credit for this work goes to the respective authors & creators (mentioned in the links)
-- feedback: celtic_vision@protonmail.com
+> This is an exhaustive list of great resources dedicated to the Goddess Morrigan. 
+> All credit for this work goes to the respective authors & creators (mentioned in the links)
+> feedback: celtic_vision@protonmail.com
 
 
 ## Articles
 
-### The Irish Pagan School | [irishpagan.school]([irishpagan.school](https://irishpagan.school))
+<table>
+    <tr>
+        <th>☆</th>
+        <th>Source</th>
+        <th>Article</th>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            <a href="https://irishpagan.school" target="_blank">The Irish Pagan School</a>
+        </td>
+        <td>
+            <a href="https://irishpagan.school/the-morrigan" target="_blank">Irish Goddess, the Mórrígan</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            Lora O’Brien | <a href="https://loraobrien.ie">loraobrien.ie</a>
+        </td>
+        <td>
+            <a href="https://loraobrien.ie/the-morrigan-resources-guide" target="_blank">The Morrigan – Ultimate Resources Guide</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            John Beckett | <a href="https://www.patheos.com/blogs/johnbeckett">patheos.com</a>
+        </td>
+        <td>
+            <ul>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2017/07/an-oath-to-the-morrigan.html">An Oath to the Morrigan</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2019/01/the-morrigan-calls-people-in-different-life-situations.html">The Morrigan Calls People In Different Life Situations</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2021/07/the-morrigan-didnt-call-you-up-just-to-smack-you-down.html">The Morrigan Didn’t Call You Up Just To Smack You Down</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2017/07/hear-call-morrigan.html">When You Hear The Call of The Morrigan</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2012/07/the-call-of-the-morrigan.html">The Call of the Morrigan</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2020/01/the-morrigan-demands-persistence-not-perfection.html">The Morrigan Demands Persistence Not Perfection</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2018/06/pouring-offerings-to-the-morrigan-in-ireland.html">Pouring Offerings to the Morrigan in Ireland</a></p>
+                </li>
+                <li><p><a href="https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html">The Morrigan Calls More Than Warriors</a></p>
+                </li>
+                </ul>
+        </td>
+    </tr>
+</table>
 
-- [Irish Goddess, the Mórrígan](https://irishpagan.school/the-morrigan)
 
-### Lora O’Brien | [loraobrien.ie](https://loraobrien.ie)
-- [The Morrigan – Ultimate Resources Guide](https://loraobrien.ie/the-morrigan-resources-guide)
-    
-### John Beckett | [patheos.com](https://www.patheos.com/blogs/johnbeckett)
 
-- [An Oath to the Morrigan](https://www.patheos.com/blogs/johnbeckett/2017/07/an-oath-to-the-morrigan.html)
-    
-- [The Morrigan Calls People In Different Life Situations](https://www.patheos.com/blogs/johnbeckett/2019/01/the-morrigan-calls-people-in-different-life-situations.html)
-    
-- [The Morrigan Didn’t Call You Up Just To Smack You Down](https://www.patheos.com/blogs/johnbeckett/2021/07/the-morrigan-didnt-call-you-up-just-to-smack-you-down.html)
-    
-- [When You Hear The Call of The Morrigan](https://www.patheos.com/blogs/johnbeckett/2017/07/hear-call-morrigan.html)
-    
-- [The Call of the Morrigan](https://www.patheos.com/blogs/johnbeckett/2012/07/the-call-of-the-morrigan.html)
-    
-- [The Morrigan Demands Persistence Not Perfection](https://www.patheos.com/blogs/johnbeckett/2020/01/the-morrigan-demands-persistence-not-perfection.html)
-    
-- [Pouring Offerings to the Morrigan in Ireland](https://www.patheos.com/blogs/johnbeckett/2018/06/pouring-offerings-to-the-morrigan-in-ireland.html)
-    
-- [The Morrigan Calls More Than Warriors](https://www.patheos.com/blogs/johnbeckett/2018/02/morrigan-calls-warriors.html)
 
 
 ## Question Related To The Goddess Morrigan | [quora](https://www.quora.com)
