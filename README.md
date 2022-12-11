@@ -253,7 +253,8 @@
             ★★★ 
         </td>
         <td>
-           **Jon O'Sullivan | The Irish Pagan School**
+           Jon O'Sullivan | The Irish Pagan School
+           <a href="https://www.dagdabard.com">Jon O'Sullivan | dagdabard.com</a>
         </td>
         <td>
             <a href="https://www.youtube.com/watch?v=FVSrRY38bjA">How I Met the Morrigan - Thoughts on Personal Sovereignty</a>
@@ -264,7 +265,7 @@
             ★★★ 
         </td>
         <td rowspan="4">
-           **Lora O'Brien**
+           <a href="https://loraobrien.ie">Lora O’Brien | loraobrien.ie</a>
         </td>
         <td>
             <a href="https://www.youtube.com/watch?v=RakzNrRCjXk">How to Work with the Morrigan</a>
