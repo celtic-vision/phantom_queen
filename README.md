@@ -299,4 +299,8 @@
 
 ## Prayers
 - [Prayer to the Morrigan at Sunset](https://loraobrien.ie/morrigan-prayer)
+
+## More References
+- <http://adminstaff.vassar.edu/sttaylor/Cooley/>
+- <https://www.legendarytours.com/tain.html>
  
