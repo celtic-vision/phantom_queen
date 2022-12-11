@@ -253,7 +253,7 @@
             ★★★ 
         </td>
         <td>
-           Jon O'Sullivan | <a href="https://www.dagdabard.com">Jon O'Sullivan | dagdabard.com</a>
+           <a href="https://www.dagdabard.com">Jon O'Sullivan | dagdabard.com</a>
         </td>
         <td>
             <a href="https://www.youtube.com/watch?v=FVSrRY38bjA">How I Met the Morrigan - Thoughts on Personal Sovereignty</a>
