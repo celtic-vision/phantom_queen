@@ -29,7 +29,7 @@
             ★★★ 
         </td>
         <td>
-            Lora O’Brien | <a href="https://loraobrien.ie">loraobrien.ie</a>
+            <a href="https://loraobrien.ie">Lora O’Brien | loraobrien.ie</a>
         </td>
         <td>
             <a href="https://loraobrien.ie/the-morrigan-resources-guide" target="_blank">The Morrigan – Ultimate Resources Guide</a>
@@ -40,7 +40,7 @@
             ★★★ 
         </td>
         <td>
-            John Beckett | <a href="https://www.patheos.com/blogs/johnbeckett">patheos.com</a>
+            <a href="https://www.patheos.com/blogs/johnbeckett">John Beckett | patheos.com</a>
         </td>
         <td>
             <ul>
