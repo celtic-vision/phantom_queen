@@ -377,7 +377,8 @@
         </td>
         <td>
             The Book of The Great Queen
-            ![](img/ravenna1.jpg)
+            <img src="img/ravenna1.jpg">
+            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
         </td>
     </tr>
 </table> 
