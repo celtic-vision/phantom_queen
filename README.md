@@ -313,7 +313,63 @@
 
 
 ## Books
-- [Prayer to the Morrigan at Sunset](https://loraobrien.ie/morrigan-prayer)
+<table>
+    <tr>
+        <th>☆</th>
+        <th>Author</th>
+        <th>Book Description</th>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td rowspan="2">
+            Morgan Daimler
+        </td>
+        <td>
+            Pagan Portals - Raven Goddess: Going Deeper with the Morrigan
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            Pagan Portals - The Morrigan: Meeting the Great Queens
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            Courtney Weber
+        </td>
+        <td>
+            The Morrigan: Celtic Goddess of Magick and Might
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td rowspan="2">
+            Stephanie Woodfield
+        </td>
+        <td>
+            Priestess of The Morrigan: Prayers, Rituals and Devotional Work to the Great Queen: Prayers, Rituals & Devotional Work to the Great Queen
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            Celtic Lore & Spellcraft of the Dark Goddess: Invoking the Morrigan
+        </td>
+    </tr>
+
+</table> 
 
 ## More References
 - <http://adminstaff.vassar.edu/sttaylor/Cooley/>
