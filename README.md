@@ -368,7 +368,17 @@
             Celtic Lore & Spellcraft of the Dark Goddess: Invoking the Morrigan
         </td>
     </tr>
-
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+            Morpheus Ravenna
+        </td>
+        <td>
+            The Book of The Great Queen
+        </td>
+    </tr>
 </table> 
 
 ## More References
