@@ -318,6 +318,7 @@
         <th>☆</th>
         <th>Author</th>
         <th>Book Description</th>
+        <th>Cover</th>
     </tr>
     <tr>
         <td>
@@ -329,6 +330,9 @@
         <td>
             Pagan Portals - Raven Goddess: Going Deeper with the Morrigan
         </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+        </td>
     </tr>
     <tr>
         <td>
@@ -336,6 +340,9 @@
         </td>
         <td>
             Pagan Portals - The Morrigan: Meeting the Great Queens
+        </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
         </td>
     </tr>
     <tr>
@@ -348,6 +355,9 @@
         <td>
             The Morrigan: Celtic Goddess of Magick and Might
         </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+        </td>
     </tr>
     <tr>
         <td>
@@ -359,6 +369,9 @@
         <td>
             Priestess of The Morrigan: Prayers, Rituals and Devotional Work to the Great Queen: Prayers, Rituals & Devotional Work to the Great Queen
         </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+        </td>
     </tr>
     <tr>
         <td>
@@ -366,6 +379,9 @@
         </td>
         <td>
             Celtic Lore & Spellcraft of the Dark Goddess: Invoking the Morrigan
+        </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
         </td>
     </tr>
     <tr>
@@ -377,7 +393,6 @@
         </td>
         <td>
             The Book of The Great Queen
-            <img src="img/ravenna1.jpg">
             <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
         </td>
     </tr>
