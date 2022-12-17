@@ -325,7 +325,9 @@
             ★★★ 
         </td>
         <td rowspan="2">
-            Morgan Daimler | <a href="https://www.patreon.com/morgandaimler">Pateron</a> | <a href="https://lairbhan.blogspot.com">Living Liminally</a>           </td>
+            Morgan Daimler <br>
+            <a href="https://www.patreon.com/morgandaimler">Pateron</a> | <a href="https://lairbhan.blogspot.com">Living Liminally</a>           
+        </td>
         <td>
             Pagan Portals - Raven Goddess: Going Deeper with the Morrigan
         </td>
