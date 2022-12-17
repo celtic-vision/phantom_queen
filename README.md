@@ -331,7 +331,7 @@
             Pagan Portals - Raven Goddess: Going Deeper with the Morrigan
         </td>
         <td>
-            <img src="https://m.media-amazon.com/images/I/81MBv6PruzL._AC_SS130_.jpg">
+            <img src="https://m.media-amazon.com/images/P/1789044863.01._SCLZZZZZZZ_SX500_.jpg">
         </td>
     </tr>
     <tr>
@@ -342,7 +342,7 @@
             Pagan Portals - The Morrigan: Meeting the Great Queens
         </td>
         <td>
-            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+            <img src="https://m.media-amazon.com/images/P/1782798331.01._SCLZZZZZZZ_SX500_.jpg">
         </td>
     </tr>
     <tr>
@@ -356,7 +356,7 @@
             The Morrigan: Celtic Goddess of Magick and Might
         </td>
         <td>
-            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+            <img src="https://m.media-amazon.com/images/P/1578636639.01._SCLZZZZZZZ_SX500_.jpg">
         </td>
     </tr>
     <tr>
@@ -370,7 +370,7 @@
             Priestess of The Morrigan: Prayers, Rituals and Devotional Work to the Great Queen: Prayers, Rituals & Devotional Work to the Great Queen
         </td>
         <td>
-            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+            <img src="https://m.media-amazon.com/images/P/0738766658.01._SCLZZZZZZZ_SX500_.jpg">
         </td>
     </tr>
     <tr>
@@ -381,7 +381,7 @@
             Celtic Lore & Spellcraft of the Dark Goddess: Invoking the Morrigan
         </td>
         <td>
-            <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
+            <img src="https://m.media-amazon.com/images/P/0738727679.01._SCLZZZZZZZ_SX500_.jpg">
         </td>
     </tr>
     <tr>
