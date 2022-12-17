@@ -393,6 +393,8 @@
         </td>
         <td>
             The Book of The Great Queen
+        </td>
+        <td>
             <img src="https://m.media-amazon.com/images/I/519wZRFooVL._SX348_BO1,204,203,200_.jpg">
         </td>
     </tr>
