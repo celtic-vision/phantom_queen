@@ -271,7 +271,7 @@
         <td>
             ★★★ 
         </td>
-        <td rowspan="7">
+        <td rowspan="9">
            <a href="https://loraobrien.ie">Lora O’Brien | loraobrien.ie</a>
         </td>
         <td>
@@ -324,6 +324,22 @@
         </td>
         <td>
           <a href="https://www.youtube.com/watch?v=FBc3SvB-Lrg">How to Build a Relationship with The Morrigan?</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=YSSS_Ayb1yc">Is the Morrigan Tender, or Kind?</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=IGWDcz18QUc">Queen Medb (Maeve), Mab, The Morrigan, Morgan Le Fay... Are They Connected?</a></p>
         </td>
   </tr>
   <tr>
