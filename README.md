@@ -252,7 +252,7 @@
         <td>
             ★★★ 
         </td>
-        <td>
+        <td rowspan="2">
            <a href="https://www.dagdabard.com">Jon O'Sullivan | dagdabard.com</a>
         </td>
         <td>
@@ -263,7 +263,15 @@
         <td>
             ★★★ 
         </td>
-        <td rowspan="4">
+        <td>
+          <a href="https://www.youtube.com/watch?v=P0e6eroiu9s">The Morrigan | Goddess of Poetry, Battle and Prophecy</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td rowspan="7">
            <a href="https://loraobrien.ie">Lora O’Brien | loraobrien.ie</a>
         </td>
         <td>
@@ -292,6 +300,30 @@
         </td>
         <td>
           <a href="https://www.youtube.com/watch?v=M9DKSCbrpiI">Mórrígan Lore - a Reading of the Táin Bó Regamna</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=dZ8K-WMmjWM">A Conversation with the Morrigan... when the Goddess Spoke to Her Priestess at Her Most Sacred Site</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=RogugHzIGKg">What Does the Goddess Morrigan Look Like?</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=FBc3SvB-Lrg">How to Build a Relationship with The Morrigan?</a></p>
         </td>
   </tr>
   <tr>
