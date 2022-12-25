@@ -339,7 +339,7 @@
             Pagan Portals - Raven Goddess: Going Deeper with the Morrigan
         </td>
         <td>
-            <img src="https://m.media-amazon.com/images/P/1789044863.01._SCLZZZZZZZ_SX500_.jpg">
+            <img src="https://m.media-amazon.com/images/I/41kAMp9ft6L.jpg">
         </td>
     </tr>
     <tr>
