@@ -271,7 +271,7 @@
         <td>
             ★★★ 
         </td>
-        <td rowspan="9">
+        <td rowspan="10">
            <a href="https://loraobrien.ie">Lora O’Brien | loraobrien.ie</a>
         </td>
         <td>
@@ -340,6 +340,14 @@
         </td>
         <td>
           <a href="https://www.youtube.com/watch?v=IGWDcz18QUc">Queen Medb (Maeve), Mab, The Morrigan, Morgan Le Fay... Are They Connected?</a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=K-QETCiJ1Ek">  Is the Morrigan Connected to the Banshee? </a></p>
         </td>
   </tr>
   <tr>
