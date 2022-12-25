@@ -271,7 +271,7 @@
         <td>
             ★★★ 
         </td>
-        <td rowspan="10">
+        <td rowspan="11">
            <a href="https://loraobrien.ie">Lora O’Brien | loraobrien.ie</a>
         </td>
         <td>
@@ -347,7 +347,15 @@
             ★★★ 
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=K-QETCiJ1Ek">  Is the Morrigan Connected to the Banshee? </a></p>
+          <a href="https://www.youtube.com/watch?v=K-QETCiJ1Ek">Is the Morrigan Connected to the Banshee? </a></p>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            ★★★ 
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=jyTOmh3NPf4">My Most Important Daily Practice as a Morrigan Priestess</a></p>
         </td>
   </tr>
   <tr>
@@ -366,6 +374,10 @@
 
 ## Prayers
 - [Prayer to the Morrigan at Sunset](https://loraobrien.ie/morrigan-prayer)
+
+
+## Altar
+-[What Do I Put on a Morrigan Altar? | Lora O'Brien of the Irish Pagan School Answers](https://www.youtube.com/watch?v=M5qhBb3iA-I)
 
 
 ## Books
