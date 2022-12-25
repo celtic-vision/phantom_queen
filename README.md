@@ -377,7 +377,10 @@
 
 
 ## Altar
--[What Do I Put on a Morrigan Altar? | Lora O'Brien of the Irish Pagan School Answers](https://www.youtube.com/watch?v=M5qhBb3iA-I)
+- [What Do I Put on a Mórrígan Altar? | Lora O'Brien of the Irish Pagan School](https://loraobrien.ie/what-do-i-put-on-a-morrigan-altar/)
+    - [Youtube](https://www.youtube.com/watch?v=M5qhBb3iA-I)
+    
+- [http://goddessschool.com](http://goddessschool.com/projects/AvalonRaine/TheMorrigan.html)
 
 
 ## Books
