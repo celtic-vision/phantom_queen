@@ -379,8 +379,12 @@
 ## Altar
 - [What Do I Put on a Mórrígan Altar? | Lora O'Brien of the Irish Pagan School](https://loraobrien.ie/what-do-i-put-on-a-morrigan-altar/)
     - [Youtube](https://www.youtube.com/watch?v=M5qhBb3iA-I)
+
+- [My Goddess Altar and Witch Room | exemplore.com](https://exemplore.com/paganism/The-Magic-of-The-Morrigan-Mighty-Macha#my-goddess-altar-and-witch-room)
     
 - [http://goddessschool.com](http://goddessschool.com/projects/AvalonRaine/TheMorrigan.html)
+
+- [reddit: Just set up my altar for The Morrigan ...](https://www.reddit.com/r/pagan/comments/hv9177/just_set_up_my_altar_for_the_morrigan_ive_felt)
 
 
 ## Books
